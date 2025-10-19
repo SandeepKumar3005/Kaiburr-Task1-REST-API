@@ -129,7 +129,7 @@ curl -X DELETE http://localhost:8081/tasks/123
 ## Screenshots
 
 ### 1. GET All Tasks
-![Get All Tasks](screenshots/GET_TASKS.png)
+![Get All Tasks](screenshots/GET_REQUEST.png)
 
 ### 2. Create Task
 ![Create Task](screenshots/CREATE_TASK.png)
